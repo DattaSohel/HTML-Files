@@ -5,9 +5,12 @@ This website is structured using HTML (Hyper Text Markup Language), which serves
 The website utilizes a variety of HTML tags to create an engaging and informative user experience. Here are some of the key elements included:
 
 img Tag: This tag is used to embed images into the webpage, enhancing visual appeal and providing context to the content. Images can be used for branding, illustration, or decoration.
-ul (Unordered List) and ol (Ordered List) Tags: These tags are employed to organize content into lists. The <ul> tag creates bulleted lists, while the <ol> tag creates numbered lists, making information easy to read and navigate.
+
+ul (Unordered List) and ol (Ordered List) Tags: These tags are employed to organize content into lists. The <ul> tag creates bulleted lists, while the <ol> tag creates numbered lists, 
+making information easy to read and navigate.
 
 a Tag (Anchor Tag): This tag is used to create hyperlinks that allow users to navigate between different pages or external websites. It enhances interactivity by enabling users to click and access additional resources.
+
 li Tag: This tag represents individual list items within both unordered and ordered lists. It helps structure content in a clear and organized manner.
 br Tag: The line break tag is used to insert a line break in the text, allowing for better formatting without starting a new paragraph. This is useful for creating space between lines or sections of text.
 
