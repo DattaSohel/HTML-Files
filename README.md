@@ -10,7 +10,7 @@ img Tag: This tag is used to embed images into the webpage, enhancing visual app
 Images can be used for branding, illustration, or decoration.
 
 ul (Unordered List) and ol (Ordered List) Tags: These tags are employed to organize content into lists.
-The ul tag creates bulleted lists, while the <ol> tag creates numbered lists, 
+The ul tag creates bulleted lists, while the ol tag creates numbered lists, 
 making information easy to read and navigate.
 
 a Tag (Anchor Tag): This tag is used to create hyperlinks that allow users to navigate between different pages or external websites. 
